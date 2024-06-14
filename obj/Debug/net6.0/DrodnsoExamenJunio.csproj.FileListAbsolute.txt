@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\DrodnsoExamenJunio\bin\Debug\net6.0\DrodnsoExamenJunio.exe
+C:\Users\David\source\repos\DrodnsoExamenJunio\bin\Debug\net6.0\DrodnsoExamenJunio.deps.json
+C:\Users\David\source\repos\DrodnsoExamenJunio\bin\Debug\net6.0\DrodnsoExamenJunio.runtimeconfig.json
+C:\Users\David\source\repos\DrodnsoExamenJunio\bin\Debug\net6.0\DrodnsoExamenJunio.dll
+C:\Users\David\source\repos\DrodnsoExamenJunio\bin\Debug\net6.0\DrodnsoExamenJunio.pdb
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.AssemblyInfo.cs
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.dll
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\refint\DrodnsoExamenJunio.dll
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.pdb
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\DrodnsoExamenJunio.genruntimeconfig.cache
+C:\Users\David\source\repos\DrodnsoExamenJunio\obj\Debug\net6.0\ref\DrodnsoExamenJunio.dll
